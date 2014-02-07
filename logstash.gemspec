@@ -47,6 +47,7 @@ Gem::Specification.new do |gem|
   gem.add_runtime_dependency "gelfd", ["0.2.0"]                 #(Apache 2.0 license)
   gem.add_runtime_dependency "gelf", ["1.3.2"]                  #(MIT license)
   gem.add_runtime_dependency "gmetric", ["0.1.3"]               #(MIT license)
+  gem.add_runtime_dependency "geoscript", "0.1.0.pre"           #(MIT license)
   gem.add_runtime_dependency "jiralicious", ["0.2.2"]           #(MIT license)
   gem.add_runtime_dependency "jls-grok", ["0.10.12"]            #(BSD license)
   gem.add_runtime_dependency "mail"                             #(MIT license)
